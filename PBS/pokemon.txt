@@ -27334,7 +27334,7 @@ Generation = 9
 [REGIMYTHOS]
 Name = Regimythos
 Types = PSYCHIC
-BaseStats = 1,1,1,1,1,1
+BaseStats = 80,50,100,100,150,100
 GenderRatio = Genderless
 GrowthRate = Parabolic
 BaseExp = 166

@@ -38,14 +38,14 @@
 47,East,8,52,West,0
 # Ruta 8 (69) - Afueras Zona Safari (66)
 69,North,0,66,South,10
-# Ruta 204 (84) - Ruta 205 (87)
-84,North,52,87,South,0
+# Ruta 205 (87) - Valle Eólico (88)
+87,East,69,88,West,0
 # Pueblo Aromaflor (86) - Ruta 205 (87)
-86,East,0,87,West,8
+86,East,0,87,West,10
+# Ruta 204 (84) - Pueblo Aromaflor (86)
+84,North,0,86,South,12
 # Ciudad Jubileo (82) - Ruta 204 (84)
 82,North,22,84,South,0
-# Pueblo Aromaflor (86) - Ruta 204 (84)
-86,South,12,84,North,0
 # Ruta 202 (81) - Ciudad Jubileo (82)
 81,North,0,82,South,25
 # Ruta 203 (83) - Ciudad Jubileo (82)
@@ -56,5 +56,3 @@
 76,East,0,77,West,4
 # Pueblo Hojaverde (48) - Ruta 201 (76)
 48,North,0,76,South,14
-# Ruta 205 (87) - Valle Eólico (88)
-87,45,69,88,0,0
