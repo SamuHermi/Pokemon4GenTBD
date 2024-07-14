@@ -1,6 +1,6 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
-[7]   # Dungeon cave
+[7]   # Mazmorra cueva
 Autotile = 1,floor_patch
 Tile = 40,void
 Tile = 41,void_decoration
@@ -11,7 +11,7 @@ Tile = 0,walls
 DoubleWalls = true
 FloorPatchUnderWalls = true
 #-------------------------------
-[23]   # Dungeon forest
+[23]   # Mazmorra bosque
 Autotile = 1,floor_decoration
 Tile = 40,void
 Tile = 42,floor

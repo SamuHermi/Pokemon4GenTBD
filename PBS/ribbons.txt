@@ -1,401 +1,401 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
 [HOENNCOOL]
-Name = Cool Ribbon
+Name = Cinta Carisma
 IconPosition = 0
-Description = Hoenn Cool Contest Normal Rank winner!
+Description = ¡Ganador de la categoría Normal del Concurso Carisma!
 #-------------------------------
 [HOENNCOOLSUPER]
-Name = Cool Ribbon Super
+Name = Cinta Carisma Alto
 IconPosition = 1
-Description = Hoenn Cool Contest Super Rank winner!
+Description = ¡Ganador de la categoría Alto del Concurso Carisma!
 #-------------------------------
 [HOENNCOOLHYPER]
-Name = Cool Ribbon Hyper
+Name = Cinta Carisma Avanzado
 IconPosition = 2
-Description = Hoenn Cool Contest Hyper Rank winner!
+Description = ¡Ganador de la categoría Avanzado del Concurso Carisma!
 #-------------------------------
 [HOENNCOOLMASTER]
-Name = Cool Ribbon Master
+Name = Cinta Carisma Experto
 IconPosition = 3
-Description = Hoenn Cool Contest Master Rank winner!
+Description = ¡Ganador de la categoría Experto del Concurso Carisma!
 #-------------------------------
 [HOENNBEAUTY]
-Name = Beauty Ribbon
+Name = Cinta Belleza
 IconPosition = 4
-Description = Hoenn Beauty Contest Normal Rank winner!
+Description = ¡Ganador de la categoría Normal del Concurso de Belleza!
 #-------------------------------
 [HOENNBEAUTYSUPER]
-Name = Beauty Ribbon Super
+Name = Cinta Belleza Alto
 IconPosition = 5
-Description = Hoenn Beauty Contest Super Rank winner!
+Description = ¡Ganador de la categoría Alto del Concurso de Belleza!
 #-------------------------------
 [HOENNBEAUTYHYPER]
-Name = Beauty Ribbon Hyper
+Name = Cinta Belleza Avanzado
 IconPosition = 6
-Description = Hoenn Beauty Contest Hyper Rank winner!
+Description = ¡Ganador de la categoría Avanzado del Concurso de Belleza!
 #-------------------------------
 [HOENNBEAUTYMASTER]
-Name = Beauty Ribbon Master
+Name = Cinta Belleza Experto
 IconPosition = 7
-Description = Hoenn Beauty Contest Master Rank winner!
+Description = ¡Ganador de la categoría Experto del Concurso de Belleza!
 #-------------------------------
 [HOENNCUTE]
-Name = Cute Ribbon
+Name = Cinta Dulzura
 IconPosition = 8
-Description = Hoenn Cute Contest Normal Rank winner!
+Description = ¡Ganador de la categoría Normal del Concurso de Dulzura!
 #-------------------------------
 [HOENNCUTESUPER]
-Name = Cute Ribbon Super
+Name = Cinta Dulzura Alto
 IconPosition = 9
-Description = Hoenn Cute Contest Super Rank winner!
+Description = ¡Ganador de la categoría Alto del Concurso de Dulzura!
 #-------------------------------
 [HOENNCUTEHYPER]
-Name = Cute Ribbon Hyper
+Name = Cinta Dulzura Avanzado
 IconPosition = 10
-Description = Hoenn Cute Contest Hyper Rank winner!
+Description = ¡Ganador de la categoría Avanzado del Concurso de Dulzura!
 #-------------------------------
 [HOENNCUTEMASTER]
-Name = Cute Ribbon Master
+Name = Cinta Dulzura Experto
 IconPosition = 11
-Description = Hoenn Cute Contest Master Rank winner!
+Description = ¡Ganador de la categoría Experto del Concurso de Dulzura!
 #-------------------------------
 [HOENNSMART]
-Name = Smart Ribbon
+Name = Cinta Ingenio
 IconPosition = 12
-Description = Hoenn Smart Contest Normal Rank winner!
+Description = ¡Ganador de la categoría Normal del Concurso de Ingenio!
 #-------------------------------
 [HOENNSMARTSUPER]
-Name = Smart Ribbon Super
+Name = Cinta Ingenio Alto
 IconPosition = 13
-Description = Hoenn Smart Contest Super Rank winner!
+Description = ¡Ganador de la categoría Alto del Concurso de Ingenio!
 #-------------------------------
 [HOENNSMARTHYPER]
-Name = Smart Ribbon Hyper
+Name = Cinta Ingenio Avanzado
 IconPosition = 14
-Description = Hoenn Smart Contest Hyper Rank winner!
+Description = ¡Ganador de la categoría Avanzado del Concurso de Ingenio!
 #-------------------------------
 [HOENNSMARTMASTER]
-Name = Smart Ribbon Master
+Name = Cinta Ingenio Experto
 IconPosition = 15
-Description = Hoenn Smart Contest Master Rank winner!
+Description = ¡Ganador de la categoría Experto del Concurso de Ingenio!
 #-------------------------------
 [HOENNTOUGH]
-Name = Tough Ribbon
+Name = Cinta Dureza
 IconPosition = 16
-Description = Hoenn Tough Contest Normal Rank winner!
+Description = ¡Ganador de la categoría Normal del Concurso de Dureza!
 #-------------------------------
 [HOENNTOUGHSUPER]
-Name = Tough Ribbon Super
+Name = Cinta Dureza Alto
 IconPosition = 17
-Description = Hoenn Tough Contest Super Rank winner!
+Description = ¡Ganador de la categoría Alto del Concurso de Dureza!
 #-------------------------------
 [HOENNTOUGHHYPER]
-Name = Tough Ribbon Hyper
+Name = Cinta Dureza Avanzado
 IconPosition = 18
-Description = Hoenn Tough Contest Hyper Rank winner!
+Description = ¡Ganador de la categoría Avanzado del Concurso de Dureza!
 #-------------------------------
 [HOENNTOUGHMASTER]
-Name = Tough Ribbon Master
+Name = Cinta Dureza Experto
 IconPosition = 19
-Description = Hoenn Tough Contest Master Rank winner!
+Description = ¡Ganador de la categoría Experto del Concurso de Dureza!
 #-------------------------------
 [SINNOHCOOL]
-Name = Cool Ribbon
+Name = Cinta Carisma
 IconPosition = 20
-Description = Super Contest Cool Category Normal Rank winner!
+Description = ¡Ganador de la categoría Normal del Súper concurso de Categoría Carisma!
 #-------------------------------
 [SINNOHCOOLSUPER]
-Name = Cool Ribbon Great
+Name = Cinta Carisma Difícil
 IconPosition = 21
-Description = Super Contest Cool Category Great Rank winner!
+Description = ¡Ganador de la categoría Difícil del Súper concurso de Categoría Carisma!
 #-------------------------------
 [SINNOHCOOLHYPER]
-Name = Cool Ribbon Ultra
+Name = Cinta Carisma Superior
 IconPosition = 22
-Description = Super Contest Cool Category Ultra Rank winner!
+Description = ¡Ganador de la categoría Superior del Súper concurso de Categoría Carisma!
 #-------------------------------
 [SINNOHCOOLMASTER]
-Name = Cool Ribbon Master
+Name = Cinta Carisma Experto
 IconPosition = 23
-Description = Super Contest Cool Category Master Rank winner!
+Description = ¡Ganador de la categoría Experto del Súper concurso de Categoría Carisma!
 #-------------------------------
 [SINNOHBEAUTY]
-Name = Beauty Ribbon
+Name = Cinta de Belleza
 IconPosition = 24
-Description = Super Contest Beauty Category Normal Rank winner!
+Description = ¡Ganador de la categoría Normal del Súper concurso de Categoría Belleza!
 #-------------------------------
 [SINNOHBEAUTYSUPER]
-Name = Beauty Ribbon Great
+Name = Cinta Belleza Difícil
 IconPosition = 25
-Description = Super Contest Beauty Category Great Rank winner!
+Description = ¡Ganador de la categoría Difícil del Súper concurso de Categoría Belleza!
 #-------------------------------
 [SINNOHBEAUTYHYPER]
-Name = Beauty Ribbon Ultra
+Name = Cinta Belleza Superior
 IconPosition = 26
-Description = Super Contest Beauty Category Ultra Rank winner!
+Description = ¡Ganador de la categoría Superior del Súper concurso de Categoría Belleza!
 #-------------------------------
 [SINNOHBEAUTYMASTER]
-Name = Beauty Ribbon Master
+Name = Cinta Belleza Experto
 IconPosition = 27
-Description = Super Contest Beauty Category Master Rank winner!
+Description = ¡Ganador de la categoría Experto del Súper concurso de Categoría Belleza!
 #-------------------------------
 [SINNOHCUTE]
-Name = Cute Ribbon
+Name = Cinta Dulzura
 IconPosition = 28
-Description = Super Contest Cute Category Normal Rank winner!
+Description = ¡Ganador de la categoría Normal del Súper concurso de Categoría Dulzura!
 #-------------------------------
 [SINNOHCUTESUPER]
-Name = Cute Ribbon Great
+Name = Cinta Dulzura Difícil
 IconPosition = 29
-Description = Super Contest Cute Category Great Rank winner!
+Description = ¡Ganador de la categoría Difícil del Súper concurso de Categoría Dulzura!
 #-------------------------------
 [SINNOHCUTEHYPER]
-Name = Cute Ribbon Ultra
+Name = Cinta Dulzura Superior
 IconPosition = 30
-Description = Super Contest Cute Category Ultra Rank winner!
+Description = ¡Ganador de la categoría Superior del Súper concurso de Categoría Dulzura!
 #-------------------------------
 [SINNOHCUTEMASTER]
-Name = Cute Ribbon Master
+Name = Cinta Dulzura Experto
 IconPosition = 31
-Description = Super Contest Cute Category Master Rank winner!
+Description = ¡Ganador de la categoría Experto del Súper concurso de Categoría Dulzura!
 #-------------------------------
 [SINNOHSMART]
-Name = Smart Ribbon
+Name = Cinta Ingenio
 IconPosition = 32
-Description = Super Contest Smart Category Normal Rank winner!
+Description = ¡Ganador de la categoría Normal del Súper concurso de Categoría Ingenio!
 #-------------------------------
 [SINNOHSMARTSUPER]
-Name = Smart Ribbon Great
+Name = Cinta Ingenio Difícil
 IconPosition = 33
-Description = Super Contest Smart Category Great Rank winner!
+Description = ¡Ganador de la categoría Difícil del Súper concurso de Categoría Ingenio!
 #-------------------------------
 [SINNOHSMARTHYPER]
-Name = Smart Ribbon Ultra
+Name = Cinta Ingenio Superior
 IconPosition = 34
-Description = Super Contest Smart Category Ultra Rank winner!
+Description = ¡Ganador de la categoría Superior del Súper concurso de Categoría Ingenio!
 #-------------------------------
 [SINNOHSMARTMASTER]
-Name = Smart Ribbon Master
+Name = Cinta Ingenio Experto
 IconPosition = 35
-Description = Super Contest Smart Category Master Rank winner!
+Description = ¡Ganador de la categoría Experto del Súper concurso de Categoría Ingenio!
 #-------------------------------
 [SINNOHTOUGH]
-Name = Tough Ribbon
+Name = Cinta Dureza
 IconPosition = 36
-Description = Super Contest Tough Category Normal Rank winner!
+Description = ¡Ganador de la categoría Normal del Súper concurso de Categoría Dureza!
 #-------------------------------
 [SINNOHTOUGHSUPER]
-Name = Tough Ribbon Great
+Name = Cinta Dureza Difícil
 IconPosition = 37
-Description = Super Contest Tough Category Great Rank winner!
+Description = ¡Ganador de la categoría Difícil del Súper concurso de Categoría Dureza!
 #-------------------------------
 [SINNOHTOUGHHYPER]
-Name = Tough Ribbon Ultra
+Name = Cinta Dureza Superior
 IconPosition = 38
-Description = Super Contest Tough Category Ultra Rank winner!
+Description = ¡Ganador de la categoría Superior del Súper concurso de Categoría Dureza!
 #-------------------------------
 [SINNOHTOUGHMASTER]
-Name = Tough Ribbon Master
+Name = Cinta Dureza Experto
 IconPosition = 39
-Description = Super Contest Tough Category Master Rank winner!
+Description = ¡Ganador de la categoría Experto del Súper concurso de Categoría Dureza!
 #-------------------------------
 [WINNING]
-Name = Winning Ribbon
+Name = Cinta Ganador
 IconPosition = 40
-Description = Ribbon awarded for clearing Hoenn's Battle Tower's Lv. 50 challenge.
+Description = Cinta otorgada por superar el desafío de nivel 50 de la Torre Batalla.
 #-------------------------------
 [VICTORY]
-Name = Victory Ribbon
+Name = Cinta Victoria
 IconPosition = 41
-Description = Ribbon awarded for clearing Hoenn's Battle Tower's Lv. 100 challenge.
+Description = Cinta otorgada por superar el desafío de nivel 100 de la Torre Batalla.
 #-------------------------------
 [ABILITY]
-Name = Ability Ribbon
+Name = Cinta Habilidad
 IconPosition = 42
-Description = A Ribbon awarded for defeating the Tower Tycoon at the Battle Tower.
+Description = Cinta obtenida por vencer por primera vez al Amo Torre en la Torre Batalla.
 #-------------------------------
 [GREATABILITY]
-Name = Great Ability Ribbon
+Name = Cinta Gran Habilidad
 IconPosition = 43
-Description = A Ribbon awarded for defeating the Tower Tycoon at the Battle Tower.
+Description = Cinta obtenida por vencer por segunda vez al Amo Torre en la Torre Batalla.
 #-------------------------------
 [DOUBLEABILITY]
-Name = Double Ability Ribbon
+Name = Cinta Doble Habilidad
 IconPosition = 44
-Description = A Ribbon awarded for completing the Battle Tower Double challenge.
+Description = Una cinta otorgada por completar el desafío de Doble de la Torre Batalla.
 #-------------------------------
 [MULTIABILITY]
-Name = Multi Ability Ribbon
+Name = Cinta Habilidad Múltiple
 IconPosition = 45
-Description = A Ribbon awarded for completing the Battle Tower Multi challenge.
+Description = Una cinta otorgada por completar el desafío Multi de la Torre Batalla.
 #-------------------------------
 [PAIRABILITY]
-Name = Pair Ability Ribbon
+Name = Cinta Habilidad Par
 IconPosition = 46
-Description = A Ribbon awarded for completing the Battle Tower Link Multi challenge.
+Description = Una cinta otorgada por completar el desafío Multi Conexión de la Torre Batalla.
 #-------------------------------
 [WORLDABILITY]
-Name = World Ability Ribbon
+Name = Cinta Habilidad Mundial
 IconPosition = 47
-Description = A Ribbon awarded for completing the Wi-Fi Battle Tower challenge.
+Description = Una cinta otorgada por completar el desafío de la Torre Batalla Wi-Fi.
 #-------------------------------
 [CHAMPION]
-Name = Champion Ribbon
+Name = Cinta Campeón
 IconPosition = 48
-Description = Ribbon for clearing the Pokémon League and entering the Hall of Fame in another region.
+Description = Cinta por superar la Liga Pokémon e ingresar al Salón de la Fama.
 #-------------------------------
 [SINNOHCHAMP]
-Name = Sinnoh Champ Ribbon
+Name = Cinta Campeón
 IconPosition = 49
-Description = Ribbon awarded for beating the Sinnoh Champion and entering the Hall of Fame.
+Description = Cinta otorgada por vencer al Campeón e ingresar al Salón de la Fama de Sinnoh.
 #-------------------------------
 [RECORD]
-Name = Record Ribbon
+Name = Cinta Récord
 IconPosition = 50
-Description = A Ribbon awarded for setting an incredible record.
+Description = Una cinta otorgada por establecer un récord increíble.
 #-------------------------------
 [EVENT]
-Name = Event Ribbon
+Name = Cinta Evento
 IconPosition = 51
-Description = Pokémon Event Participation Ribbon.
+Description = Una cinta otorgada por establecer un récord histórico.
 #-------------------------------
 [LEGEND]
-Name = Legend Ribbon
+Name = Cinta Leyenda
 IconPosition = 52
-Description = A Ribbon awarded for setting a legendary record.
+Description = Una cinta otorgada por establecer un récord legendario.
 #-------------------------------
 [GORGEOUS]
-Name = Gorgeous Ribbon
+Name = Cinta Maravilla
 IconPosition = 53
-Description = An extraordinarily gorgeous and extravagant Ribbon.
+Description = Una cinta extremadamente bonita y extravagante.
 #-------------------------------
 [ROYAL]
-Name = Royal Ribbon
+Name = Cinta Realeza
 IconPosition = 54
-Description = An incredibly regal Ribbon with an air of nobility.
+Description = Una cinta increíblemente majestuosa y con un aire aristocrático.
 #-------------------------------
 [GORGEOUSROYAL]
-Name = Gorgeous Royal Ribbon
+Name = Cinta Realeza Maravilla
 IconPosition = 55
-Description = A gorgeous and regal Ribbon that is the peak of fabulous.
+Description = Una cinta preciosa y majestuosa que es de lo más fabulosa y maravillosa.
 #-------------------------------
 [ALERT]
-Name = Alert Ribbon
+Name = Cinta Alerta
 IconPosition = 56
-Description = A Ribbon for recalling an invigorating event that created life energy.
+Description = Una cinta para recordar un evento vigorizante que creó energía vital.
 #-------------------------------
 [SHOCK]
-Name = Shock Ribbon
+Name = Cinta Impacto
 IconPosition = 57
-Description = A Ribbon for recalling a thrilling event that made life more exciting.
+Description = Una cinta para recordar un evento excionante que hizo la vida más interesante.
 #-------------------------------
 [DOWNCAST]
-Name = Downcast Ribbon
+Name = Cinta Abatimiento
 IconPosition = 58
-Description = A Ribbon for recalling feelings of sadness that added spice to life.
+Description = Una cinta para recordar sentimientos tristes que añadieron interés a la vida.
 #-------------------------------
 [CARELESS]
-Name = Careless Ribbon
+Name = Cinta Descuido
 IconPosition = 59
-Description = A Ribbon for recalling a careless error that helped steer life decisions.
+Description = Una cinta para recordar descuidos que ayudaron a tomar decisiones vitales.
 #-------------------------------
 [RELAX]
-Name = Relax Ribbon
+Name = Cinta Relax
 IconPosition = 60
-Description = A Ribbon for recalling a refreshing event that added sparkle to life.
+Description = Una cinta para recordar una anécdota refrescante que añadió chispa a la vida.
 #-------------------------------
 [SNOOZE]
-Name = Snooze Ribbon
+Name = Cinta Cabezada
 IconPosition = 61
-Description = A Ribbon for recalling a deep slumber that made life soothing.
+Description = Una cinta para recordar un sueño profundo que hizo que la vida fuera calmada.
 #-------------------------------
 [SMILE]
-Name = Smile Ribbon
+Name = Cinta Sonrisa
 IconPosition = 62
-Description = A Ribbon for recalling that smiles enrich the quality of life.
+Description = Una cinta para recordar que las sonrisas mejoran la calidad de vida.
 #-------------------------------
 [FOOTPRINT]
-Name = Footprint Ribbon
+Name = Cinta Huella
 IconPosition = 63
-Description = A Ribbon awarded to a Pokémon deemed to have a top-quality footprint.
+Description = Una cinta otorgada a un Pokémon que deja huellas de primera.
 #-------------------------------
 [ARTIST]
-Name = Artist Ribbon
+Name = Cinta Artista
 IconPosition = 64
-Description = Ribbon awarded for being chosen as a super sketch model in Hoenn.
+Description = Cinta otorgada por ser elegido como supermodelo en Hoenn.
 #-------------------------------
 [EFFORT]
-Name = Effort Ribbon
+Name = Cinta Esfuerzo
 IconPosition = 65
-Description = Ribbon awarded for being an exceptionally hard worker.
+Description = Cinta otorgada por ser un excelente trabajador.
 #-------------------------------
 [BIRTHDAY]
-Name = Birthday Ribbon
+Name = Cinta Cumpleaños
 IconPosition = 66
-Description = A Ribbon to celebrate a birthday.
+Description = Una cinta para celebrar un cumpleaños.
 #-------------------------------
 [SPECIAL]
-Name = Special Ribbon
+Name = Cinta Especial
 IconPosition = 67
-Description = A special Ribbon for a special day.
+Description = Una cinta para conmemorar un día especial.
 #-------------------------------
 [CLASSIC]
-Name = Classic Ribbon
+Name = Cinta Clásica
 IconPosition = 68
-Description = A Ribbon that proclaims love for Pokémon.
+Description = Una cinta que proclama amor por los Pokémon.
 #-------------------------------
 [PREMIER]
-Name = Premier Ribbon
+Name = Cinta Principal
 IconPosition = 69
-Description = Special Holiday Ribbon.
+Description = Cinta de vacaciones especiales.
 #-------------------------------
 [SOUVENIR]
-Name = Souvenir Ribbon
+Name = Cinta Recuerdo
 IconPosition = 70
-Description = A Ribbon to cherish a special memory.
+Description = Una cinta conmemorativa obtenida en un lugar misterioso.
 #-------------------------------
 [WISHING]
-Name = Wishing Ribbon
+Name = Cinta Deseo
 IconPosition = 71
-Description = A Ribbon said to make your wish come true.
+Description = Una cinta conmemorativa obtenida en un lugar misterioso.
 #-------------------------------
 [NATIONAL]
-Name = National Ribbon
+Name = Cinta Nacional
 IconPosition = 72
-Description = A Ribbon awarded for overcoming all difficult challenges.
+Description = Una cinta otorgada por superar todos los desafíos difíciles.
 #-------------------------------
 [COUNTRY]
-Name = Country Ribbon
+Name = Cinta Campo
 IconPosition = 73
-Description = Pokémon League Champion Ribbon.
+Description = Cinta de Campeón.
 #-------------------------------
 [BATTLECHAMPION]
-Name = Battle Champion Ribbon
+Name = Cinta de Campeón de Torneo
 IconPosition = 74
-Description = Battle Competition Champion Ribbon.
+Description = Cinta de Campeón de Competición de Batalla.
 #-------------------------------
 [REGIONALCHAMPION]
-Name = Regional Champion Ribbon
+Name = Cinta Campeón de Área
 IconPosition = 75
-Description = Pokémon World Championships Regional Champion Ribbon.
+Description = Cinta de Campeón Regional del Campeonato Mundial de Videojuegos Pokémon.
 #-------------------------------
 [EARTH]
-Name = Earth Ribbon
+Name = Cinta Planeta
 IconPosition = 76
-Description = A Ribbon awarded for winning 100 matches in a row.
+Description = Una cinta otorgada por ganar 100 combates seguidos.
 #-------------------------------
 [WORLD]
-Name = World Ribbon
+Name = Cinta Mundo
 IconPosition = 77
-Description = Pokémon League Champion Ribbon.
+Description = Cinta de Campeón.
 #-------------------------------
 [NATIONALCHAMPION]
-Name = National Champion Ribbon
+Name = Cinta Campeón Nacional
 IconPosition = 78
-Description = Pokémon World Championships National Champion Ribbon.
+Description = Cinta de Campeón Nacional del Campeonato Mundial de Videojuegos Pokémon.
 #-------------------------------
 [WORLDCHAMPION]
-Name = World Champion Ribbon
+Name = Cinta Campeón Mundial
 IconPosition = 79
-Description = Pokémon World Championships World Champion Ribbon.
+Description = Cinta de Campeón Mundial del Campeonato Mundial de Videojuegos Pokémon.

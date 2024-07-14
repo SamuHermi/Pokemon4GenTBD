@@ -1,40 +1,60 @@
-﻿# See the documentation on the wiki to learn how to edit this file.
+﻿# Consulta la documentación en la wiki para aprender cómo editar este archivo.
 #-------------------------------
-# Route 5 (41) - Route 4 Cycling Road (40)
-41,N,0,40,S,0
-# Route 5 (41) - Route 6 Cycling Road (45)
-41,S,6,45,N,0
-# Route 6 (44) - Route 1 (5)
-44,S,43,5,N,0
-# Safari Zone outside (66) - Route 1 (5)
-66,N,18,5,S,0
-# Cedolan City (7) - Route 1 (5)
-7,S,0,5,N,2
-# Lappet Town (2) - Route 1 (5)
-2,N,0,5,S,4
-# Cedolan City (7) - Route 6 (44)
-7,W,5,44,E,0
-# Lappet Town (2) - Safari Zone outside (66)
-2,W,0,66,E,0
-# Route 8 (69) - Safari Zone outside (66)
-69,N,0,66,S,10
-# Ingido Plateau outside (35) - Route 4 (39)
-35,W,11,39,E,0
-# Cedolan City (7) - Lerucean Town (23)
-7,E,0,23,W,78
-# Route 3 (31) - Lerucean Town (23)
-31,S,32,23,N,0
-# Route 2 (21) - Lerucean Town (23)
-21,E,0,23,W,1
-# Route 7 (47) - Cedolan City (7)
-47,W,0,7,E,0
-# Route 2 (21) - Cedolan City (7)
-21,S,0,7,N,21
-# Route 3 (31) - Ingido Plateau outside (35)
-31,W,0,35,E,10
-# Route 8 (69) - Lappet Town (2)
-69,N,12,2,S,0
-# Route 7 (47) - Battle Frontier (52)
-47,E,8,52,W,0
-# Route 2 (21) - Route 7 (47)
-21,E,77,47,W,0
+# Pueblo Inicio (2) - Ruta 1 (5)
+2,North,0,5,South,4
+# Pueblo Inicio (2) - Afueras Zona Safari (66)
+2,West,0,66,East,0
+# Ruta 8 (69) - Pueblo Inicio (2)
+69,North,12,2,South,0
+# Ruta 6 (44) - Ruta 1 (5)
+44,South,43,5,North,0
+# Afueras Zona Safari (66) - Ruta 1 (5)
+66,North,18,5,South,0
+# Ciudad Lugano (7) - Ruta 1 (5)
+7,South,0,5,North,2
+# Ciudad Lugano (7) - Ruta 6 (44)
+7,West,5,44,East,0
+# Ciudad Lugano (7) - Pueblo Macabeo (23)
+7,East,0,23,West,78
+# Ruta 7 (47) - Ciudad Lugano (7)
+47,West,0,7,East,0
+# Ruta 2 (21) - Ciudad Lugano (7)
+21,South,0,7,North,21
+# Ruta 2 (21) - Pueblo Macabeo (23)
+21,East,0,23,West,1
+# Ruta 2 (21) - Ruta 7 (47)
+21,East,77,47,West,0
+# Ruta 3 (31) - Pueblo Macabeo (23)
+31,South,32,23,North,0
+# Ruta 3 (31) - Meseta Añil exterior (35)
+31,West,0,35,East,10
+# Meseta Añil exterior (35) - Ruta 4 (39)
+35,West,11,39,East,0
+# Ruta 5 (41) - Ruta 4 Carril Bici (40)
+41,North,0,40,South,0
+# Ruta 5 (41) - Ruta 6 Carril Bici (45)
+41,South,6,45,North,0
+# Ruta 7 (47) - Frente de Batalla (52)
+47,East,8,52,West,0
+# Ruta 8 (69) - Afueras Zona Safari (66)
+69,North,0,66,South,10
+# Ruta 204 (84) - Ruta 205 (87)
+84,North,52,87,South,0
+# Pueblo Aromaflor (86) - Ruta 205 (87)
+86,East,0,87,West,8
+# Ciudad Jubileo (82) - Ruta 204 (84)
+82,North,22,84,South,0
+# Pueblo Aromaflor (86) - Ruta 204 (84)
+86,South,12,84,North,0
+# Ruta 202 (81) - Ciudad Jubileo (82)
+81,North,0,82,South,25
+# Ruta 203 (83) - Ciudad Jubileo (82)
+83,West,1,82,East,0
+# Pueblo Arena (77) - Ruta 202 (81)
+77,North,0,81,South,10
+# Ruta 201 (76) - Pueblo Arena (77)
+76,East,0,77,West,4
+# Pueblo Hojaverde (48) - Ruta 201 (76)
+48,North,0,76,South,14
+# Ruta 205 (87) - Valle Eólico (88)
+87,45,69,88,0,0

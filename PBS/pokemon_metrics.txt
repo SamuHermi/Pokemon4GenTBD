@@ -9351,51 +9351,6 @@ DmaxBackSprite = 0,0
 DmaxFrontSprite = 0,24
 DmaxShadowX = 0
 #-------------------------------
-[WISHIWASHI,3]
-BackSprite = 0,0
-FrontSprite = 0,4
-ShadowX = 0
-ShadowSize = 1
-DmaxBackSprite = 0,0
-DmaxFrontSprite = 0,28
-DmaxShadowX = 0
-#-------------------------------
-[WISHIWASHI,2]
-BackSprite = 0,0
-FrontSprite = 0,5
-ShadowX = 0
-ShadowSize = 1
-DmaxBackSprite = 0,0
-DmaxFrontSprite = 0,28
-DmaxShadowX = 0
-#-------------------------------
-[WINAKU]
-BackSprite = 0,0
-FrontSprite = -4,4
-ShadowX = 0
-ShadowSize = 4
-DmaxBackSprite = 0,0
-DmaxFrontSprite = 0,0
-DmaxShadowX = 0
-#-------------------------------
-[ACCELGOR,1]
-BackSprite = 9,0
-FrontSprite = 5,26
-ShadowX = 0
-ShadowSize = 2
-DmaxBackSprite = 0,0
-DmaxFrontSprite = 0,38
-DmaxShadowX = 0
-#-------------------------------
-[ACCELGOR,2]
-BackSprite = 9,0
-FrontSprite = 5,26
-ShadowX = 0
-ShadowSize = 2
-DmaxBackSprite = 0,0
-DmaxFrontSprite = 0,38
-DmaxShadowX = 0
-#-------------------------------
 [ALTROPARIA]
 BackSprite = 0,43
 FrontSprite = 0,0
@@ -9403,42 +9358,6 @@ ShadowX = 0
 ShadowSize = 2
 DmaxBackSprite = 0,0
 DmaxFrontSprite = 0,0
-DmaxShadowX = 0
-#-------------------------------
-[AMPHAROS,2]
-BackSprite = -5,-8
-FrontSprite = -1,20
-ShadowX = 0
-ShadowSize = 2
-DmaxBackSprite = 0,0
-DmaxFrontSprite = 0,18
-DmaxShadowX = 0
-#-------------------------------
-[AMPHAROS,3]
-BackSprite = -5,80
-FrontSprite = -1,20
-ShadowX = 0
-ShadowSize = 2
-DmaxBackSprite = 0,0
-DmaxFrontSprite = 0,18
-DmaxShadowX = 0
-#-------------------------------
-[GLIGAR,1]
-BackSprite = 0,1
-FrontSprite = 0,16
-ShadowX = 0
-ShadowSize = 2
-DmaxBackSprite = 0,0
-DmaxFrontSprite = 0,12
-DmaxShadowX = 0
-#-------------------------------
-[GLIGAR,2]
-BackSprite = 0,1
-FrontSprite = 0,16
-ShadowX = 0
-ShadowSize = 2
-DmaxBackSprite = 0,0
-DmaxFrontSprite = 0,12
 DmaxShadowX = 0
 #-------------------------------
 [GYARADOS,2]
@@ -9457,33 +9376,6 @@ ShadowX = 0
 ShadowSize = 3
 DmaxBackSprite = 0,0
 DmaxFrontSprite = 0,9
-DmaxShadowX = 0
-#-------------------------------
-[LAPRAS,1]
-BackSprite = 0,0
-FrontSprite = 0,19
-ShadowX = 0
-ShadowSize = 2
-DmaxBackSprite = 0,0
-DmaxFrontSprite = 0,20
-DmaxShadowX = 0
-#-------------------------------
-[LAPRAS,2]
-BackSprite = 0,0
-FrontSprite = 0,19
-ShadowX = 0
-ShadowSize = 2
-DmaxBackSprite = 0,0
-DmaxFrontSprite = 0,20
-DmaxShadowX = 0
-#-------------------------------
-[LECHANCHO]
-BackSprite = 0,0
-FrontSprite = 0,12
-ShadowX = 0
-ShadowSize = 2
-DmaxBackSprite = 0,0
-DmaxFrontSprite = 0,0
 DmaxShadowX = 0
 #-------------------------------
 [LUCHAUREO]
@@ -9723,33 +9615,6 @@ DmaxShadowX = 0
 [MAGURI]
 BackSprite = 0,20
 FrontSprite = -6,18
-ShadowX = 0
-ShadowSize = 2
-DmaxBackSprite = 0,0
-DmaxFrontSprite = 0,0
-DmaxShadowX = 0
-#-------------------------------
-[UMBREON,2]
-BackSprite = 0,40
-FrontSprite = 9,10
-ShadowX = 24
-ShadowSize = 1
-DmaxBackSprite = 0,0
-DmaxFrontSprite = 1,27
-DmaxShadowX = 0
-#-------------------------------
-[UMBREON,1]
-BackSprite = 0,33
-FrontSprite = -3,16
-ShadowX = 0
-ShadowSize = 2
-DmaxBackSprite = 0,0
-DmaxFrontSprite = 1,27
-DmaxShadowX = 0
-#-------------------------------
-[KINGEO]
-BackSprite = 0,0
-FrontSprite = 0,14
 ShadowX = 0
 ShadowSize = 2
 DmaxBackSprite = 0,0
